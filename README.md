@@ -19,10 +19,10 @@ NetAromr is a simple Python script designed to scan and analyze outgoing traffic
 
 2. Navigate to the project directory.
 
-      cd netguard
+        cd netguard
 
 3. Run the script.
 
-      python Netguard.py
+        python Netguard.py
 
 Explore the results and stay informed about your network activity!
